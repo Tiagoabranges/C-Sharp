@@ -15,3 +15,12 @@ decimal decimalValue = 100.0M;
 
 //Declarando uma variável char que pode armazenar um unico caractere.
 char letter = 'T'; 
+
+//Entrada de Dados
+int Age = int.Parse(Console.ReadLine());
+decimal Average = decimal.Parse(Console.ReadLine());
+bool Permission = bool.Parse(Console.ReadLine());
+string Name = Console.ReadLine();
+
+//Saída de Dados
+Console.WriteLine("Este é um exemplo de saída de dados");
