@@ -1,0 +1,15 @@
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/bin/Debug/net6.0/Tipos
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/bin/Debug/net6.0/Tipos.deps.json
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/bin/Debug/net6.0/Tipos.runtimeconfig.json
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/bin/Debug/net6.0/Tipos.dll
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/bin/Debug/net6.0/Tipos.pdb
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/obj/Debug/net6.0/Tipos.csproj.AssemblyReference.cache
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/obj/Debug/net6.0/Tipos.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/obj/Debug/net6.0/Tipos.AssemblyInfoInputs.cache
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/obj/Debug/net6.0/Tipos.AssemblyInfo.cs
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/obj/Debug/net6.0/Tipos.csproj.CoreCompileInputs.cache
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/obj/Debug/net6.0/Tipos.dll
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/obj/Debug/net6.0/refint/Tipos.dll
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/obj/Debug/net6.0/Tipos.pdb
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/obj/Debug/net6.0/Tipos.genruntimeconfig.cache
+/home/user/c-sharp/repositorio/C-Sharp/Tipos/obj/Debug/net6.0/ref/Tipos.dll
