@@ -1,21 +1,25 @@
-﻿//ENTRADA DE DADOS
-Console.WriteLine("Boas vindas ao programa 'Calcula Lâmpada'!");
-Console.WriteLine("Informe o nome do còmodo: ");
-string convenient = Console.ReadLine();
+﻿//Criando um enum
+enum CardinalPoints
+{
+    Norte,
+    Sul,
+    Leste,
+    Oeste
+};
+//Utilizando um enum
+CardinalPoints direction = CardinalPoints.Norte;
+Console.WriteLine("Ponto Cardeal: "+direction);
 
-Console.WriteLine("Informe em metros a largura deste cômodo: ");
-decimal width = decimal.Parse(Console.ReadLine());
+//Criando uma struct
+struct Schedule
+{
+    public int hour, minute, second;
+    public string shift;
+}
 
-Console.WriteLine("Informe em metros o comprimento deste cômodo: ");
-decimal length = decimal.Parse(Console.ReadLine());
-
-Console.WriteLine("Informe a potência em watts da lâmpada que será utilizada: ");
-int power = int.Parse(Console.ReadLine());
-
-//PROCESSAMENTO
-decimal squareMeter = width * length;
-decimal quotientX = power / 18M;
-decimal totalLightBulbs = squareMeter / quotientX;
-
-//SAIDA DE DADOS
-Console.WriteLine("Para iluminar o cõmodo: " + convenient + " com " + squareMeter.ToString("N2") + " metros quadrados " + "será necessario a instalação de " + totalLightBulbs.ToString("N2") + " lâmpada(s)");
+//utilizando uma struct
+Schedule now;
+now.hour = 10;
+now.minute = 30;
+now.shift = "AM";
+Console.WriteLine("Horário: " + now.hour + ":" + now.minute + " " + now.shift);
