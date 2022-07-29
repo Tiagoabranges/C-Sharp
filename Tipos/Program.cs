@@ -1,25 +1,25 @@
-﻿//Criando um enum
-enum CardinalPoints
-{
-    Norte,
-    Sul,
-    Leste,
-    Oeste
-};
-//Utilizando um enum
-CardinalPoints direction = CardinalPoints.Norte;
-Console.WriteLine("Ponto Cardeal: "+direction);
-
-//Criando uma struct
+﻿//Criando uma struct
 struct Schedule
 {
-    public int hour, minute, second;
-    public string shift;
+    private int hour, minute, second;
+    private string shift;
+
+    //Construtor da struct
+    public Schedule(int hour, int minute, int second, string shif) 
+    { 
+        this.hour = hour % 24;
+        this.minute = minute % 60;
+        this.second = second % 60;
+        this.shift = shif;
+    }
+
+    // metodo da struct
+    public string getSchedule() 
+    { 
+        return hour.ToString()+ ":" + minute.ToString() + ":" + second.ToString()+" "+shift;
+    }
 }
 
-//utilizando uma struct
-Schedule now;
-now.hour = 10;
-now.minute = 30;
-now.shift = "AM";
-Console.WriteLine("Horário: " + now.hour + ":" + now.minute + " " + now.shift);
+//Incializando uma struct com construtor
+Schedule now = new Schedule(10,30,0,"AM");
+Console.WriteLine("Horario: "+ now.getSchedule());
