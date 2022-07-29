@@ -1,25 +1,13 @@
-﻿//Criando uma struct
-struct Schedule
-{
-    private int hour, minute, second;
-    private string shift;
+﻿  //esta variável será compilada como string
+var school = "Trybe";
 
-    //Construtor da struct
-    public Schedule(int hour, int minute, int second, string shif) 
-    { 
-        this.hour = hour % 24;
-        this.minute = minute % 60;
-        this.second = second % 60;
-        this.shift = shif;
-    }
+//esta variável será compilada como int
+var semester = 1;
 
-    // metodo da struct
-    public string getSchedule() 
-    { 
-        return hour.ToString()+ ":" + minute.ToString() + ":" + second.ToString()+" "+shift;
-    }
-}
+//esta variável será compilada como um tipo anônimo
+var student = new { name = "Jorge", age = 30 };
 
-//Incializando uma struct com construtor
-Schedule now = new Schedule(10,30,0,"AM");
-Console.WriteLine("Horario: "+ now.getSchedule());
+Console.WriteLine("Olá! Me chamo " + student.name + " " +
+                  "sou um estudante da escola " + school + " " +
+                  "estou no " + semester + "º semestre " +
+                  "e tenho " + student.age + " anos"); 
