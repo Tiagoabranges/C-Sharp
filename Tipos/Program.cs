@@ -2,9 +2,10 @@
 {
     public static void Main()
     {        
-        string someString = "42";
-        int convertInt = Convert.ToInt32(someString);
+        string someString = "2022";
+        Console.WriteLine(someString is string);
 
-        Console.WriteLine(convertInt);
+        int convertInt = Convert.ToInt32(someString);
+        Console.WriteLine(convertInt is int);
     }            
 }
