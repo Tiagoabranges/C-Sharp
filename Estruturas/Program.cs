@@ -1,4 +1,8 @@
-﻿if(age > 15)
+﻿if(month == 1)
 {        
-    Console.WriteLine("idade maior que quinze");
+    Console.WriteLine("mês janeiro");
+}
+else
+{
+    Console.WriteLine("mês diferente de janeiro");
 }
