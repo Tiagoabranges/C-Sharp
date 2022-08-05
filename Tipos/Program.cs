@@ -2,22 +2,9 @@
 {
     public static void Main()
     {        
-        
-        // Eu
-        // Sou
-        // Um
-        // Comentário
-        // em
-        // C#
-        
-        // com
+        string someString = "42";
+        int convertInt = Convert.ToInt32(someString);
 
-        // Muitas
-        // Linhas
-
-        // Muitas
-        // Mesmo
-        
-        
+        Console.WriteLine(convertInt);
     }            
 }
