@@ -2,22 +2,22 @@
 {
     public static void Main()
     {        
-        /* 
-        Eu
-        Sou
-        Um
-        Comentário
-        em
-        C#
         
-        com
+        // Eu
+        // Sou
+        // Um
+        // Comentário
+        // em
+        // C#
+        
+        // com
 
-        Muitas
-        Linhas
+        // Muitas
+        // Linhas
 
-        Muitas
-        Mesmo
-        */
+        // Muitas
+        // Mesmo
+        
         
     }            
 }
