@@ -1,17 +1,11 @@
-﻿//Declarando uma variável do tipo string ideal para dados literários e frases 
-string excerptFromBook = "Ser ou não ser, eis a questão";
+﻿public class Program
+{
+    public static void Main()
+    {        
+        string someString = "2022";
+        Console.WriteLine(someString is string);
 
-//Declarando uma variável float que pode armazenar um valor de ponto flutuante com precisão de até 7 digitos
-// O sufixo f informa o compilador que o valor é float
-float floatValue = 100.0f;
-
-//Declarando uma variável double que pode armazenar um valor de ponto flutuante com precisão de até 15 digitos
-// O sufixo d informa o compilador que o valor é um double
-double doubleValue = 100.0d;
-
-//Declarando uma variável decimal que pode armazenar um valor de ponto flutuante com precisão de até 29 digitos.
-// O sufixo M informa o compilador que o valor é um decimal
-decimal decimalValue = 100.0M;
-
-//Declarando uma variável char que pode armazenar um unico caractere.
-char letter = 'T'; 
+        int convertInt = Convert.ToInt32(someString);
+        Console.WriteLine(convertInt is int);
+    }            
+}
