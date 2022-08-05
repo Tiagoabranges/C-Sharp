@@ -2,7 +2,22 @@
 {
     public static void Main()
     {        
-        //Eu sou um comentário em C#
-        ...
+        /* 
+        Eu
+        Sou
+        Um
+        Comentário
+        em
+        C#
+        
+        com
+
+        Muitas
+        Linhas
+
+        Muitas
+        Mesmo
+        */
+        
     }            
 }
