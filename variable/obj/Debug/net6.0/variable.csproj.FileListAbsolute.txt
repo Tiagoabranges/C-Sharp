@@ -1,0 +1,12 @@
+/home/user/c-sharp/repositorio/C-Sharp/variable/obj/Debug/net6.0/variable.csproj.AssemblyReference.cache
+/home/user/c-sharp/repositorio/C-Sharp/variable/obj/Debug/net6.0/variable.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/c-sharp/repositorio/C-Sharp/variable/obj/Debug/net6.0/variable.AssemblyInfoInputs.cache
+/home/user/c-sharp/repositorio/C-Sharp/variable/obj/Debug/net6.0/variable.AssemblyInfo.cs
+/home/user/c-sharp/repositorio/C-Sharp/variable/obj/Debug/net6.0/variable.csproj.CoreCompileInputs.cache
+/home/user/c-sharp/repositorio/C-Sharp/variable/bin/Debug/net6.0/variable.deps.json
+/home/user/c-sharp/repositorio/C-Sharp/variable/bin/Debug/net6.0/variable.dll
+/home/user/c-sharp/repositorio/C-Sharp/variable/bin/Debug/net6.0/variable.pdb
+/home/user/c-sharp/repositorio/C-Sharp/variable/obj/Debug/net6.0/variable.dll
+/home/user/c-sharp/repositorio/C-Sharp/variable/obj/Debug/net6.0/refint/variable.dll
+/home/user/c-sharp/repositorio/C-Sharp/variable/obj/Debug/net6.0/variable.pdb
+/home/user/c-sharp/repositorio/C-Sharp/variable/obj/Debug/net6.0/ref/variable.dll
