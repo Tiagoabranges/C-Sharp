@@ -1,6 +1,7 @@
 ﻿var count = 0;
-while (count < 10)
+do
 {
     Console.WriteLine("count " + count);
     count++;
 }
+while (count < 10);
