@@ -1,11 +1,17 @@
-﻿// Na declaração do foreach, temos a inicialização de uma variável do mesmo tipo da coleção, 
-// o operador in, a coleção que o laço percorrerá e o bloco de instruções a ser executado. 
-// A cada incremento do laço, um elemento da coleção será atribuído ao elemento inicalizado na 
-// declaração e então o bloco de instruções será executado.
+﻿// Instruções de uma única linha
+// No C#, um bloco de instrução é sempre escrito entre chaves {} para delimitar seu contexto. Porém, o uso das chaves não é obrigatório para definir uma instrução de uma linha como ocorre em: for, foreach e while.
 
-string[] names = new string[] { "Hulk", "Thor", "Loki" };
-foreach (var name in names)
-{
-    Console.WriteLine(name);
-}
-// A leitura desse código é algo como: “execute o laço para cada name existente no array names“
+// Veja os exemplos a seguir:
+
+
+for (int count = 0; count < 10; count++)
+    Console.WriteLine(count);
+
+int[] numbers = new int[] { 1, 2, 3, 4 };
+var sum = 0;
+foreach (var number in numbers)
+    sum += number;
+
+var isClosed = false;
+while (!isClosed)
+    isClosed = CloseConnection();
