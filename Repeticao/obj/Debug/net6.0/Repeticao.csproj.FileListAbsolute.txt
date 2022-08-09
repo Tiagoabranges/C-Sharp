@@ -1,0 +1,15 @@
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/bin/Debug/net6.0/Repeticao
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/bin/Debug/net6.0/Repeticao.deps.json
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/bin/Debug/net6.0/Repeticao.runtimeconfig.json
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/bin/Debug/net6.0/Repeticao.dll
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/bin/Debug/net6.0/Repeticao.pdb
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/obj/Debug/net6.0/Repeticao.csproj.AssemblyReference.cache
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/obj/Debug/net6.0/Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/obj/Debug/net6.0/Repeticao.AssemblyInfoInputs.cache
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/obj/Debug/net6.0/Repeticao.AssemblyInfo.cs
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/obj/Debug/net6.0/Repeticao.csproj.CoreCompileInputs.cache
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/obj/Debug/net6.0/Repeticao.dll
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/obj/Debug/net6.0/refint/Repeticao.dll
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/obj/Debug/net6.0/Repeticao.pdb
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/obj/Debug/net6.0/Repeticao.genruntimeconfig.cache
+/home/user/c-sharp/repositorio/C-Sharp/Repeticao/obj/Debug/net6.0/ref/Repeticao.dll
