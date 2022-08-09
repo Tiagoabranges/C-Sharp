@@ -8,3 +8,4 @@ foreach (var name in names)
 {
     Console.WriteLine(name);
 }
+// A leitura desse código é algo como: “execute o laço para cada name existente no array names“
