@@ -2,3 +2,7 @@
 {
     Console.WriteLine("numero: " + count);
 }
+for (inicialização; condição; incremento)
+{
+    //comandos;
+}
